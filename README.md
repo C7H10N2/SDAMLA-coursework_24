@@ -5,3 +5,4 @@ Welcome to the SDAMLA (Scientific Data Analysis and Machine Learning Application
 ## Index
 
 1. [Lecture 1](./Lecture1)
+1. [Lecture 2](./Lecture2)
